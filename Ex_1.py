@@ -2,7 +2,7 @@
 Dans cet exercice, vous allez devoir créer une fonction qui s'appelle somme prennant comme paramètre une liste de nombres 
 et qui retourne la somme de ces nombres. S'il n'y a pas de nombre dans la liste, la fonction devra retourner 0.
 '''
-
+# écrire votre code ici
 
 
 assert somme([1, 2, 3, 4, 5]) == 15
