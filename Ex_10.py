@@ -7,7 +7,6 @@ Vous devrez d'abord trié la liste en ordre croissant ou décroissant, s'il faut
 '''
 # écrire votre code ici
 
-assert 
 assert tri_dichotomique([1, 2, 3, 4, 5], 4) == 3
 assert tri_dichotomique([-50, 10, 20, 30, 40], -50) == 0
 assert tri_dichotomique([7, 4, 2, 3, 5], 6) == None
