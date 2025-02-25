@@ -8,3 +8,6 @@ et qui retourne la somme de ces nombres. S'il n'y a pas de nombre dans la liste,
 assert somme([1, 2, 3, 4, 5]) == 15
 assert somme([10, 20, 30, 40, -50]) == 150
 assert somme([]) == 0
+
+
+# Classe, Subclasse, dictionnnaire, parcour par largeur, tableau de liste, recursif, pile file listechaine, 
