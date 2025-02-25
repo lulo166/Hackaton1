@@ -1,6 +1,6 @@
 '''
-Dans cet exercice, vous allez devoir créer une fonction qui s'appelle somme prennant comme paramètre une liste de nombres 
-et qui retourne la somme de ces nombres. S'il n'y a pas de nombre dans la liste, la fonction devra retourner 0.
+Dans cet exercice, vous allez devoir créer une fonction qui s'appelle recherche prennant comme paramètre n, qui est donné ci-dessous, et un nombre 
+et qui retourne la somme de ces nombres. Si le nombre n'est pas dans n, la fonction devra retourner None.
 '''
 # écrire votre code ici
 
