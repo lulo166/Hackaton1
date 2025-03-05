@@ -15,5 +15,3 @@ assert recherche([10, 20, 30, 40, -50], 10) == [1,1]
 assert recherche([[1, 2, 3, 4],[5, 6]], 7) == None
 assert recherche([]) == None
 
-
-# Classe, Subclasse,  parcour par largeur, recursif, pile file listechaine, 
